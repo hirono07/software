@@ -5,6 +5,7 @@ RPA OSSを読み終えて
 
 ## 学べたこと
 大まかに分類すると1~70行目まで名前空間、インポート文
+
 71~385行目までがワークフロー、処理の実態？の様な部分
 以降はGUI関連の部分。
 
@@ -28,7 +29,8 @@ RPA OSSを読み終えて
 <FlowStep x:Name="__ReferenceID0" sap2010:WorkflowViewState.IdRef="FlowStep_3"
 
 84行目　FlowStepで処理の順序がわかる X:Nameがこのステップの処理名 IdRefで識別 今後各FlowStepの処理を行う
-　
+　長くて全部を読めませんでした
+
 
 ## 学べなかったこと
 
